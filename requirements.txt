@@ -136,7 +136,6 @@ PyYAML==5.3.1
 pyzmq==19.0.1
 qtconsole==4.7.3
 QtPy==1.9.0
-Quart==0.10.0
 requests==2.22.0
 rsa==4.0
 s3transfer==0.2.1
