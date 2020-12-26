@@ -131,7 +131,6 @@ python-slugify==4.0.0
 python-telegram-bot==12.2.0
 pytimeparse==1.1.8
 pytz==2019.2
-pywin32==228
 pywinpty==0.5.7
 PyYAML==5.3.1
 pyzmq==19.0.1
